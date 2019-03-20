@@ -7,7 +7,7 @@ function BasicDatePicker(props) {
   return (
     <Fragment>
       <div className="picker">
-        <DatePicker
+        <DatePickerhttps://github.com/dmtrKovalenko/material-ui-pickers/tree/develop/docs/pages/api/datepicker
           label="Basic example"
           value={selectedDate}
           onChange={handleDateChange}
